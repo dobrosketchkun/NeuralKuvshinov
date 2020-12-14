@@ -9,19 +9,19 @@
 ### Top tier
 
 <div align="center">
-<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/high.png" width="800">
+<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/high.jpg" width="800">
 </div>
 
 ### Middle tier
 
 <div align="center">
-<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/middle.png" width="800">
+<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/middle.jpg" width="800">
 </div>
 
 ### Low tier
 
 <div align="center">
-<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/low.png" width="800">
+<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/low.jpg" width="800">
 </div>
 
 Ну и for fun два бонусных:
@@ -29,13 +29,13 @@
 ### Nightmare tier
 
 <div align="center">
-<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/nightmare.png" width="800">
+<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/nightmare.jpg" width="800">
 </div>
 
 ### Abstract tier
 
 <div align="center">
-<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/abstract.png" width="800">
+<img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/abstract.jpg" width="800">
 </div>
 
 
