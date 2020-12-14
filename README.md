@@ -42,3 +42,8 @@
 Вот [тут лежат несколько разных моделей](https://drive.google.com/drive/folders/1T6BNlyPpvLsxXI-gkCepR7S_nFcSi63o?usp=sharing) (чем выше номер, тем дольше они обучались).
 
 Чтобы сгенерировать берёте [NeuralKuvshinov.ipynb](https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/NeuralKuvshinov.ipynb) и идёте с ним в [Google Colab](https://colab.research.google.com/)
+
+
+На закуску видео с прогулкой по top tier с интерполяцией (ведёт на youtube):
+
+[![Neural Kuvshinov interpolation walk](https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/interpolation_movie.gif?raw=true)](https://www.youtube.com/watch?v=EYCxhISX2wI)
