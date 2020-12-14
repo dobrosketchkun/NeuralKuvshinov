@@ -24,7 +24,7 @@
 <img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/low.jpg" width="800">
 </div>
 
-Ну и for fun два бонусных:
+## Ну и for fun два бонусных:
 
 ### Nightmare tier
 
@@ -38,5 +38,7 @@
 <img src="https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/abstract.jpg" width="800">
 </div>
 
+---
+Вот [тут лежат несколько разных моделей](https://drive.google.com/drive/folders/1T6BNlyPpvLsxXI-gkCepR7S_nFcSi63o?usp=sharing) (чем выше номер, тем дольше они обучались).
 
-Вот тут будут лежать несколько разных моделей (чем выше номер, тем дольше они обучались)
+Чтобы сгенерировать берёте [NeuralKuvshinov.ipynb](https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/NeuralKuvshinov.ipynb) и идёте с ним в [Google Colab](https://colab.research.google.com/)
