@@ -1,5 +1,9 @@
 ### [RU](https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/README.md) | **[EN]**
 
+---
+# New version - [NeuralKuvshinov_v2](https://github.com/dobrosketchkun/NeuralKuvshinov_v2)
+---
+
 As a big fan of kinky consensual love with neural networks and the art of [Ilya Kuvshinov](https://www.instagram.com/kuvshinov_ilya/), I decided to train a neural network on his work. To get the dataset, I used [instaloader](https://instaloader.github.io/), as an initial neural network - [stylegan2-ffhq-config-f.pkl](http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/stylegan2-ffhq-config-f.pkl), and as a backbone -  [stylegan2-ada](https://github.com/NVlabs/stylegan2-ada).
 
 The results were interesting and much better than I expected. Perhaps they would have been even better if I hadn't initially thrown the entire dump of Kuvshinov's instagram into the pit.
