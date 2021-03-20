@@ -1,5 +1,7 @@
 ### **[RU]** | [EN](https://github.com/dobrosketchkun/NeuralKuvshinov/blob/main/README_EN.md)
-
+---
+# Новая версия - [NeuralKuvshinov_v2](https://github.com/dobrosketchkun/NeuralKuvshinov_v2)
+---
 Как большой поклонник извращенств с нейросетями и творчества [Ильи Кувшинова](https://www.instagram.com/kuvshinov_ilya/) я решил натренировать нейросеть на его работах. Для набора датасета я использовал [instaloader](https://instaloader.github.io/), как начальную нейросеть - [stylegan2-ffhq-config-f.pkl](http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/stylegan2-ffhq-config-f.pkl), а обучалось это всё в [stylegan2-ada](https://github.com/NVlabs/stylegan2-ada).
 
 Результаты оказались интересными и лучше, чем я ожидал. Возможно они были бы ещё лучше, кабы я не кинул первоначально весь дамп инстаграма в нейросеть, а только потом за два эпизода очистки не довёл её только до портретной составляющей.
